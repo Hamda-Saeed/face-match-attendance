@@ -5,7 +5,7 @@ A browser-based attendance tool built with **ReactJS** and **face-api.js**, enab
 ---
 
 ## 🚀 Live Demo  
-👉 [Click here to try it out]((https://attendance-face-recognition.netlify.app/))  
+👉 [Click here to try it out](https://attendance-face-recognition.netlify.app/)  
 *(Hosted on Netlify)*
 
 ---
