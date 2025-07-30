@@ -46,4 +46,6 @@ This was a side project I began while exploring `face-api.js`, and I finally too
 Open to suggestions, improvements, or collaboration ideas. Feel free to fork the repo, open issues, or submit PRs! 😊
 
 ---
+![Face Recognition Demo](./face.png)
+
 
